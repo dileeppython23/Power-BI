@@ -1,1 +1,1 @@
-# powerbi-salesinsights
+# PowerBI-salesinsights
